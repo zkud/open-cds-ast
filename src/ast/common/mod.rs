@@ -1,5 +1,5 @@
 pub mod ast_term;
-pub mod reference;
+pub mod mockable;
 
 pub use ast_term::*;
-pub use reference::*;
+pub use mockable::*;
